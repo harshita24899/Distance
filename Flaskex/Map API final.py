@@ -12,7 +12,7 @@ import geocoder
 
 
 # API key for Distance matrix map API
-API_key = 'AIzaSyCUERxhqvGGrAmO7225MRSLT8D6tK1gGFo'
+API_key = 'ENTER KEY'
 gmaps = googlemaps.Client(key=API_key)
 
 
@@ -20,7 +20,7 @@ gmaps = googlemaps.Client(key=API_key)
 
 
 # API key for geocoding map API
-gmaps_key =googlemaps.Client(key= 'AIzaSyCIWxn8xOIdSiEGXmRfmmzOkzHfcllWVWA' ) 
+gmaps_key =googlemaps.Client(key= 'ENTER KEY' ) 
 
 #-----------------------------------------#
 #    Finding current location of user     #

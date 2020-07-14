@@ -11,7 +11,7 @@ root= tk.Tk()
 root.title("HIK Maps")
 
 canvas1 = tk.Canvas(root, width = 400, height = 300)
-image=ImageTk.PhotoImage(Image.open("C:\\Users\\Harshita\\Downloads\\map2.png"))
+image=ImageTk.PhotoImage(Image.open("C:\\map2.png"))
 canvas1.create_image(0,0,anchor=NW,image=image)
 canvas1.pack()
 
@@ -100,7 +100,7 @@ def getCurrent():
 
 
     while True:
-        out = check_output(["powershell.exe", "C:\\Users\\Harshita\\Documents\\College\\sem6\\Cloud\\a.ps1"])
+        out = check_output(["powershell.exe", "C:\\a.ps1"])
         out=out.decode('ascii')
         out = re.split('\r\n', out)
         print(out)

@@ -1,4 +1,4 @@
-# Distance
+# Distance Calculator
 Distance between current location (or any source) and destination address using Google Map APIs
 
 ```

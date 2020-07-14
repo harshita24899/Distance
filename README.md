@@ -23,14 +23,14 @@ Google Cloud Platform (GCP) was the chosen cloud service and python as the progr
 #### Below listed are the Python Modules used: 
 
 ##### 1. Googlemaps: 
-*Imported to access the Distance Matrix API which finds the distance between two locations that is given by user
+* Imported to access the Distance Matrix API which finds the distance between two locations that is given by user
 ##### 2. Geocoder: 
-*Imported to access the Geocoding API which will help convert the address into latitude and longitude 
+* Imported to access the Geocoding API which will help convert the address into latitude and longitude 
 ##### 3. Geopy: 
-*This contains Nominatim which is imported to help with reverse coding (i.e. to convert latitude and longitude to an address)
+* This contains Nominatim which is imported to help with reverse coding (i.e. to convert latitude and longitude to an address)
 ##### 4. Subprocess: 
-*One can start a process in Python using the Popen function call, which is very handy when you want to run a system. Here, it is used to access the GPS location of the user's device to obtain the current location
+* One can start a process in Python using the Popen function call, which is very handy when you want to run a system. Here, it is used to access the GPS location of the user's device to obtain the current location
 ##### 5. Tkinter: 
-*This module is used to create the GUI of the application.
+* This module is used to create the GUI of the application.
 ##### 6. PIL: 
-*Used to put the background image in the GUI   
+* Used to put the background image in the GUI   

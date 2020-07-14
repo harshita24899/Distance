@@ -34,3 +34,6 @@ Google Cloud Platform (GCP) was the chosen cloud service and python as the progr
 * This module is used to create the GUI of the application.
 ##### 6. PIL: 
 * Used to put the background image in the GUI   
+
+![Distance2](https://user-images.githubusercontent.com/49755530/87420888-b3a6cf80-c5f3-11ea-98d2-ddd7395a5dfb.png)
+![Distance1](https://user-images.githubusercontent.com/49755530/87420893-b5709300-c5f3-11ea-8a01-71f9dafb8849.png)
